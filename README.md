@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Shikhar Mohan (he/him)
+### Hello there 👋 My name is Shikhar Mohan (he/him)
 
 - I'm a pre-final year Undergrad from the department of E & ECE, IIT Kharagpur.
 - I'm very interested in Deep Learning and Computer Vision, and pursuing research in these very topics!

@@ -4,4 +4,4 @@
 - I'm very interested in Deep Learning and Computer Vision, and pursuing research in these very topics!
 - My ongoing research work includes Self Supervised Learning, with MLO Laboratory, EPFL and Biomedical Image Understanding, with Dept. of ECE, IIT Kharagpur.
 - Email me on shikhar_mn@iitkgp.ac.in anytime! I will be happy to respond
-- Fun fact: When I'm not working on my research, I'm usually either gaming or practising my speeches for parliamentary debating
+- When I'm not working on my research, I'm usually either gaming or practising my speeches for parliamentary debating

@@ -2,7 +2,7 @@
 
 🔋 I'm a final year Undergrad from the department of E & ECE, IIT Kharagpur.
 
-🌻 I'm very interested in Deep Learning and Computer Vision, and pursuing research in these very topics!
+🌻 I'm very interested in Representation Learning in Supervised as well as Unsupervised (deep) models.
 
 🧠 I've worked on Self-Supervised Learning under MLO Laboratory, EPFL (Switzerland) and Biomedical Image Analysis under Dept. of E & ECE, IIT Kharagpur.
 

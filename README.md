@@ -1,11 +1,9 @@
 ### Hello there 👋 My name is Shikhar Mohan (he/him)
 
-🔋 I'm a final year Undergrad from the department of E & ECE, IIT Kharagpur.
+🔋 I'm a Research Fellow at Microsoft Research India, in the Extreme Classification group. Here, I work on problems related to recommendation systems.
 
-🌻 I'm very interested in Representation Learning in Supervised as well as Unsupervised (deep) models.
+🧠 In the past, I've worked on Self-Supervised Learning under MLO Laboratory, EPFL (Switzerland) and Biomedical Image Analysis under Dept. of E & ECE, IIT Kharagpur.
 
-🧠 I've worked on Self-Supervised Learning under MLO Laboratory, EPFL (Switzerland) and Biomedical Image Analysis under Dept. of E & ECE, IIT Kharagpur.
+💻 Email me on mohan.shikhar11@gmail.com anytime! I will be happy to respond 😁
 
-💻 Email me on shikhar_mn@iitkgp.ac.in anytime! I will be happy to respond 😁
-
-💁 When I'm not working on my research, I'm usually either gaming or practising my speeches for parliamentary debating
+💁 When I'm not working on my research, I'm usually either gaming or playing Table Tennis when a few GPUs do all the hard work.

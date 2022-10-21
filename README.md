@@ -6,4 +6,4 @@
 
 💻 Email me on mohan.shikhar11@gmail.com anytime! I will be happy to respond 😁
 
-💁 When I'm not working on my research, I'm usually either gaming or playing Table Tennis when a few GPUs do all the hard work.
+💁 When I'm not working on my research, I'm usually either gaming or playing table tennis when a few GPUs do all the hard work.

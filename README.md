@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Shikhar Mohan (he/him)
 
-🔋 I'm an Applied Scientist 2 at Microsoft India, in the INTL Bing Ads Understanding Team. Here, I work on problems related to recommendation systems.
+🔋 I'm an Applied Scientist at Microsoft India, in the INTL Bing Ads Understanding Team. Here, I work on problems related to recommendation systems.
 
 🧠 In the past, I've spent two amazing years as a Research Fellow in Manik Varma's Extreme Classification Team, where I worked on multimodality in Recommendation Systems.
 
